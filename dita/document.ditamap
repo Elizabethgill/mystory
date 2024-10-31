@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>(Name of Story)</title>
+    <title>Beauty and The Beast</title>
     <topicref href="index.dita"/>
     <topicref href="chapter_1.dita"/>
     <topicref href="chapter_2.dita"/>

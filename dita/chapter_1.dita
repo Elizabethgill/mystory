@@ -33,8 +33,7 @@
             within the castle forever. </p>
         <fig id="fig_o4g_t2r_fdc">
             <title>The enchanted rose</title>
-            <image href="red-rose.jpg">
-                <alt>A sparkling red rose encased in a glass dome</alt>
+            <image href="red-rose.jpg" alt="A sparkling red rose encased in a glass dome">
             </image>
         </fig>
     </body>

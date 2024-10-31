@@ -11,10 +11,8 @@
             unlike the prince, they are grateful for what they do have.</p>
         <fig id="image">
             <title>The small, sunny yellow cottage</title>
-            <image>
-                <alt>A small, sunny yellow cottage</alt>
-            </image>
-            <image href="yellow-cottage.jpg" id="yellow-cottage" scale="50"/>
+         
+            <image href="yellow-cottage.jpg" id="yellow-cottage" scale="50" alt="A small, sunny yellow cottage"/>
         </fig>
         <p>When Belle isn’t tending to Maurice, she spends all her time with her toes in the sand,
             reading on the beach. Through these stories, Belle escapes beyond Miami, imagining the
