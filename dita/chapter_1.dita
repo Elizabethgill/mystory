@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_sps_srd_ddc">
+<topic id="chapter-1-the-beasts-curse">
     <title>Chapter 1: The Beast's Curse</title>
     <body>
         <p>In a far-off castle in the Florida Everglades, a spoiled prince spent his days selfishly
@@ -31,10 +31,9 @@
             and all would go back to normal. Although, if he is incapable of learning to love those,
             both beautiful and ugly alike, then the spell would become permanent and curse those
             within the castle forever. </p>
-        <fig id="fig_o4g_t2r_fdc">
+        <fig id="the-enchanted-rose">
             <title>The enchanted rose</title>
-            <image href="red-rose.jpg" alt="A sparkling red rose encased in a glass dome">
-            </image>
+            <image href="red-rose.jpg" alt="A sparkling red rose encased in a glass dome"/>
         </fig>
     </body>
 </topic>

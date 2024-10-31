@@ -9,10 +9,10 @@
                 audience="adults">a hardworking jack-of-all-trades, or for better words, a
                 self-employed engineer. </ph> They don’t have much money, nor a big house, but
             unlike the prince, they are grateful for what they do have.</p>
-        <fig id="image">
+        <fig id="yellow-cottage">
             <title>The small, sunny yellow cottage</title>
-         
-            <image href="yellow-cottage.jpg" id="yellow-cottage" scale="50" alt="A small, sunny yellow cottage"/>
+            <image href="yellow-cottage.jpg" id="yellow-cottage" scale="50"
+                alt="A small, sunny yellow cottage"/>
         </fig>
         <p>When Belle isn’t tending to Maurice, she spends all her time with her toes in the sand,
             reading on the beach. Through these stories, Belle escapes beyond Miami, imagining the
