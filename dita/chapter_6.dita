@@ -13,8 +13,9 @@
             <title>Belle salsa dancing</title>
         </fig>
         <fig id="woman-salsa-dancing">
-            <image href="woman-salsa.jpg" alt="Belle salsa dancing in a bright red cocktail dress and matching heels" id="image_gbp_kcw_gdc">
-            </image>
+            <image href="woman-salsa.jpg"
+                alt="Belle salsa dancing in a bright red cocktail dress and matching heels"
+                id="image_gbp_kcw_gdc"/>
         </fig>
         <p>As an early Christmas present, the Beast surprised Belle with a brand-new Mercedes-Benz
             G-Wagon so she could visit Maurice. <ph audience="children">When she arrived back at her
