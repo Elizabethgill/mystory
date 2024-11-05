@@ -15,7 +15,8 @@
             <title>Maurice's Ford F-150 on the way to the fair</title>
         </fig>
         <fig id="maurices-truck">
-            <image href="pickup-truck-car-clipart-original.png" alt="Rust red pickup truck with tinted windows" id="image_knj_4xv_gdc"/>
+            <image href="pickup-truck-car-clipart-original.png"
+                alt="Rust red pickup truck with tinted windows" id="image_knj_4xv_gdc" scale="25"/>
         </fig>
         <p>On his way to the fair, Maurice hit stand-still traffic on I-95, backed up for miles.
             Afraid that he would miss the fair, he pulled off the highway and decided to take a
