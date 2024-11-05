@@ -20,8 +20,9 @@
             <title>Belle's custom library</title>
         </fig>
         <fig id="at-home-library">
-            <image href="library-book-shelves.jpg" alt="Custom library with thousands of colorful hardback books" id="image_vr5_jbw_gdc">
-            </image>
+            <image href="library-book-shelves.jpg"
+                alt="Custom library with thousands of colorful hardback books"
+                id="image_vr5_jbw_gdc" scale="50"/>
         </fig>
     </body>
 </topic>
