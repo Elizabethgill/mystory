@@ -24,7 +24,7 @@
         <fig id="golden-ballroom">
             <image href="Belle_Beast_Ballroom.jpg"
                 alt="Large golden ballroom with golden arched windows and a golden chandelier"
-                id="image_lg5_fpw_gdc" scale="30"/>
+                id="image_lg5_fpw_gdc" scale="10"/>
         </fig>
         <p>Suddenly, the Beast collapsed and everyone shrieked in horror. Belle rushed to his side,
             but he wasn’t breathing. She tried performing CPR in hopes he would awaken, but nothing
@@ -41,8 +41,8 @@
             <title>True Love's Kiss</title>
         </fig>
         <fig id="belle-and-beast-kiss">
-            <image alt="Belle kissing the Beast in human form" href="belle-and-beast-kissing.jpg" id="image_ifq_1qw_gdc">
-            </image>
+            <image alt="Belle kissing the Beast in human form" href="belle-and-beast-kissing.jpg"
+                id="image_ifq_1qw_gdc" scale="30"/>
         </fig>
     </body>
 </topic>
